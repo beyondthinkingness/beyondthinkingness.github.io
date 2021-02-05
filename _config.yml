@@ -29,9 +29,7 @@ email: your-email@domain.com
 author: GitHub User
 copyright: Copyright © 1970-2010
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The idea of this assorted wordless library is for me to have a place to voice my opinion on various topics. One day, if we meet, I hope you’ll share with me your favorite posts. These are my attempts at inspiring myself and others to level up and rise to our true potential.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
